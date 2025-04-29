@@ -1,5 +1,3 @@
 remote_theme: jekyll-theme/retro
 title: Rant Studios
 description: Rant here about your issues which hopefully someone will solve on our discord
-plugins:
-  - jekyll-remote-theme
